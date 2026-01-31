@@ -70,3 +70,8 @@ The main takeaway was learning how to use `grid-column` and `grid-row` to span m
   }
 }
 ```
+
+## Author
+
+- Frontend Mentor - @PatoCatejo
+- GitHub - PatoCatejo
