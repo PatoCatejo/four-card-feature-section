@@ -25,11 +25,12 @@ Users should be able to:
 ### Screenshot
 
 ![Design preview](./screenshot.png)
+![Design preview mobile](./screenshot-mobile.png)
 
 ### Links
 
-- Solution URL:[ \[Add your GitHub link here\]](https://github.com/PatoCatejo/four-card-feature-section)
-- Live Site URL:[\[Add your GitHub Pages link here\]](https://patocatejo.github.io/four-card-feature-section/)
+- Solution URL: [https://github.com/PatoCatejo/four-card-feature-section]
+- Live Site URL: [https://patocatejo.github.io/four-card-feature-section/]
 
 ## My process
 
